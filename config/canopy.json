@@ -1,0 +1,17 @@
+{
+  "label": { "none": ["Primeros Libros"] },
+  "collection": "https://raw.githubusercontent.com/markpbaggett/static_iiif/main/collections/primeros-libros.json",
+  "metadata": [
+    "Subjects",
+    "Created date",
+    "Language",
+    "Publisher"
+  ],
+  "theme": {
+    "defaultTheme": "dark",
+    "enableToggle": true,
+    "accentColor": "mint",
+    "radius": "small",
+    "scaling": "110%"
+  }
+}
