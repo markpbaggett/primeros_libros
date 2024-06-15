@@ -66,6 +66,12 @@ const StyledCloverViewer = styled("div", {
       },
     },
   },
+  ".clover-viewer-content": {
+    minHeight: "500px",
+  },
+  ".clover-viewer-media-wrapper": {
+    zIndex: "99999",
+  }
 });
 
 export default Viewer;
