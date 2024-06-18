@@ -5,7 +5,8 @@
     "Subjects",
     "Created date",
     "Language",
-    "Publisher"
+    "Publisher",
+    "Contributors"
   ],
   "theme": {
     "defaultTheme": "dark",
