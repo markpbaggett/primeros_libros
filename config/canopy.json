@@ -11,7 +11,7 @@
   "theme": {
     "defaultTheme": "dark",
     "enableToggle": true,
-    "accentColor": "mint",
+    "accentColor": "tomato",
     "radius": "small",
     "scaling": "110%"
   }
